@@ -61,7 +61,7 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "CPY_RETAILMART_VSV_BOLB_ADLS",
+						"name": "CPY_RETAILMART_VSV_BLOB_ADLS",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
